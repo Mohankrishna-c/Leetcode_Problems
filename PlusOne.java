@@ -1,4 +1,4 @@
-class Solution {
+class PlusOne {
     public int[] plusOne(int[] digits) {
         // convert array to digit(1,2,3) = 123
         // The idea is to check if the all the digits are 9, if so allocate a plus 1 memory to the array and initialize 1st digit to 1;
